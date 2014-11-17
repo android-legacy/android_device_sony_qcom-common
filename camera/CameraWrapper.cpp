@@ -35,7 +35,7 @@
 #include <camera/Camera.h>
 #include <camera/CameraParameters.h>
 #include <cutils/properties.h>
-
+#include <camera/CameraParametersExtra.h>
 // Sony parameter names
 static char KEY_SONY_IMAGE_STABILISER_VALUES[] = "sony-is-values";
 static char KEY_SONY_IMAGE_STABILISER[] = "sony-is";
