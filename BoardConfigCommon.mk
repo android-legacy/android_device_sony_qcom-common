@@ -26,9 +26,6 @@ TARGET_CPU_SMP := true
 # Power HAL
 TARGET_PROVIDES_POWERHAL := true
 
-# Lights HAL
-TARGET_PROVIDES_LIBLIGHT := true
-
 # Graphics
 USE_OPENGL_RENDERER := true
 TARGET_USES_ION := true
