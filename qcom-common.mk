@@ -27,7 +27,7 @@ PRODUCT_PACKAGES += \
 
 # Camera wrapper
 PRODUCT_PACKAGES += \
-    camera.qcom
+    camera.yukon
 
 # Omx
 PRODUCT_PACKAGES += \
